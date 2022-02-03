@@ -1,3 +1,4 @@
 # todo-app-complete
 
-a simple todo app use mongoDB noSQL
+a simple todo app use noSQL mongoDB
+
